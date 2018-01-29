@@ -22,7 +22,9 @@
     
 }
 
-
+- (void)testGithub{
+    NSLog(@"测试GitHub");
+}
 
 - (void)viewWillAppear:(BOOL)animated{
     
