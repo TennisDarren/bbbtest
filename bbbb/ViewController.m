@@ -26,6 +26,10 @@
     NSLog(@"测试GitHub");
 }
 
+- (void)addIgnoreFile{
+    NSLog(@"添加忽略文件");
+}
+
 - (void)viewWillAppear:(BOOL)animated{
     
 }
