@@ -26,6 +26,7 @@
     NSLog(@"测试GitHub");
 }
 
+// 后添加.ignore文件，需手动操作 忽略掉UserInterface.xcuserstate文件
 - (void)addIgnoreFile{
     NSLog(@"添加忽略文件");
 }
